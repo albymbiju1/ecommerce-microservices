@@ -12,7 +12,7 @@ env:
   REGISTRY: docker.io
   DOCKER_USERNAME: albymbiju
   DOCKER_PASSWORD: Albyser@123  # ⚠️ Avoid hardcoding credentials
-  IMAGE_PREFIX: albymbiju
+  IMAGE_PREFIX: iamsanjo
 
 jobs:
   build:
